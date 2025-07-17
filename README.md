@@ -224,21 +224,29 @@ me.say_hi()
 
 ## 🌟 Featured Projects
 
-<!-- Update these with your actual project repositories -->
 <div align="center">
-  <a href="https://github.com/ameykhodke/smart-health-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=smart-health-monitor&theme=tokyonight" alt="Smart Health Monitor"/>
+  
+  ### 🏛️ Campus Nexus - ERP System for Streamlined College Process
+  <a href="https://github.com/AmeyKhodke/Campus-Nexus-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus-&theme=tokyonight" alt="Campus Nexus"/>
   </a>
-  <a href="https://github.com/ameykhodke/ai-chat-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=ai-chat-assistant&theme=tokyonight" alt="AI Chat Assistant"/>
+  
+  ### 💼 Professional Portfolio Website
+  <a href="https://github.com/AmeyKhodke/ProfessionalPortfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=ProfessionalPortfolio&theme=tokyonight" alt="Professional Portfolio"/>
   </a>
-  <a href="https://github.com/ameykhodke/cybersecurity-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=cybersecurity-toolkit&theme=tokyonight" alt="Cybersecurity Toolkit"/>
+  
+  ### 🔍 SmartSearchX - Intelligent Search Solution
+  <a href="https://github.com/AmeyKhodke/SmartSearchX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=SmartSearchX&theme=tokyonight" alt="SmartSearchX"/>
   </a>
-  <a href="https://github.com/ameykhodke/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=portfolio-website&theme=tokyonight" alt="Portfolio Website"/>
-  </a>
+  
 </div>
+
+### 🚀 Project Highlights:
+- **Campus Nexus**: A comprehensive ERP system designed to streamline college processes, featuring student management, course scheduling, and administrative tools
+- **Professional Portfolio**: A modern, responsive portfolio website showcasing my skills, projects, and professional journey
+- **SmartSearchX**: An intelligent search solution leveraging advanced algorithms for enhanced search capabilities and user experience
 
 ---
 
@@ -269,11 +277,33 @@ me.say_hi()
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Secure Web Applications: A Developer's Guide](https://dev.to/ameykhodke/building-secure-web-applications)
+- [My Journey into Machine Learning: From Beginner to Intermediate](https://dev.to/ameykhodke/ml-journey)
+- [Ethical Hacking: Understanding the Mindset](https://dev.to/ameykhodke/ethical-hacking-mindset)
+- [React Native Performance Optimization Tips](https://dev.to/ameykhodke/react-native-performance)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+---
+
+## 🎯 2024 Goals
+
+- [ ] Contribute to 5 open-source projects
+- [ ] Build an advanced AI/ML project
+- [ ] Earn cybersecurity certifications
+- [ ] Launch a tech blog/YouTube channel
+- [ ] Mentor aspiring developers
+- [ ] Participate in hackathons
 
 ---
 
