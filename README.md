@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amey Khodke</h1>
 <h3 align="center">A Passionate Software Developer | AIML Enthusiast | CyberSecurity Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2qfb0jm0cQjoNfo56rQ7Kx&ust=1752850366255000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjyts-SxI4DFQAAAAAdAAAAABAE"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameykhodke" alt="ameykhodke" /></a> </p>
 
 - 🌱 I’m currently learning **AIML , Cyber Security**
