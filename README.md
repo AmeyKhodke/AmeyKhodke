@@ -107,8 +107,6 @@ me.say_hi()
 <p align="left">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
@@ -137,16 +135,16 @@ me.say_hi()
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameykhodke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameykhodke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameykhodke&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameykhodke&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameykhodke&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameykhodke&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 ---
@@ -162,8 +160,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">🎓 Campus Nexus - Complete ERP Solution</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/Campus-Nexus" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" alt="Campus Nexus"/>
+<a href="https://github.com/ameykhodke/Campus-Nexus" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Campus Nexus"/>
 </a>
 <p><em>An advanced college management system with a modern microservices-inspired architecture.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>MERN Stack</code> <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>JWT</code></p>
@@ -172,8 +170,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">💼 Professional Portfolio</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/ProfessionalPortfolio" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=ProfessionalPortfolio&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" alt="Professional Portfolio"/>
+<a href="https://github.com/ameykhodke/ProfessionalPortfolio" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=ProfessionalPortfolio&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Professional Portfolio"/>
 </a>
 <p><em>A modern, responsive personal portfolio website built with cutting-edge frontend technologies.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>React.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Vite</code></p>
@@ -184,8 +182,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">🔍 SmartSearchX</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/SmartSearchX" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" alt="SmartSearchX"/>
+<a href="https://github.com/ameykhodke/SmartSearchX" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="SmartSearchX"/>
 </a>
 <p><em>An AI-powered search tool utilizing Google's Programmable Search Engine for intelligent results.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>Python</code> <code>Pandas</code> <code>Google API</code> <code>SMTP</code> <code>CSV</code> <code>Regex</code></p>
@@ -196,7 +194,7 @@ me.say_hi()
 <div align="center">
 <br><br>
 <p><em>Explore more of my work and contributions directly on my GitHub profile!</em></p>
-<a href="https://github.com/AmeyKhodke?tab=repositories" target="_blank">
+<a href="https://github.com/ameykhodke?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
 </a>
 <br><br><br>
@@ -210,7 +208,7 @@ me.say_hi()
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameykhodke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ameykhodke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&cache_seconds=86400" alt="GitHub Trophies"/>
 </div>
 
 ### 🎯 Professional Milestones
@@ -220,32 +218,6 @@ me.say_hi()
 - 🌟 **Open Source Contributor** - Community-driven Development
 
 ---
-
-## 🔥 Current Focus & Learning Journey
-
-<div align="center">
-
-| 🤖 **AI/ML & Data Science** | 🔐 **Cybersecurity & Privacy** |
-|:---:|:---:|
-| *Building intelligent systems that learn and adapt* | *Protecting digital assets and ensuring security* |
-| 🧠 Deep Learning & Neural Networks | 🕵️ Ethical Hacking & Penetration Testing |
-| 👁️ Computer Vision & Image Processing | 🌐 Web Application Security (OWASP) |
-| 🗣️ Natural Language Processing | 🔒 Network Security & Monitoring |
-| 📊 Predictive Analytics & Data Mining | 🛡️ Incident Response & Forensics |
-| 🔮 Generative AI & LLMs | ☁️ Cloud Security & Compliance |
-| ⚡ MLOps & Model Deployment | 📱 Mobile Security & Privacy |
-
-| 🌐 **Full Stack Development** | ☁️ **Cloud & DevOps** |
-|:---:|:---:|
-| *Creating scalable, end-to-end solutions* | *Deploying and managing applications at scale* |
-| ⚛️ Modern Frontend Frameworks | 🐳 Containerization & Orchestration |
-| 🚀 RESTful & GraphQL APIs | 🔄 CI/CD Pipeline Automation |
-| 🗄️ Database Design & Optimization | 📊 Monitoring & Observability |
-| 🔑 Authentication & Authorization | 🏗️ Infrastructure as Code |
-| 📈 Performance & Scalability | 🚀 Serverless & Microservices |
-| 🧪 Testing & Quality Assurance | 📦 Package Management & Deployment |
-
-</div>
 
 ---
 
@@ -287,7 +259,6 @@ me.say_hi()
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ameykhodke&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ameykhodke?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/ameykhodke?label=Total%20Stars&style=flat-square&color=0e75b6&logo=github" alt="GitHub Stars"/>
 </div>
 
 <div align="center">
