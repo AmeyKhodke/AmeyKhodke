@@ -160,8 +160,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">🎓 Campus Nexus - Complete ERP Solution</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/Campus-Nexus" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Campus Nexus"/>
+<a href="https://github.com/ameykhodke/Campus-Nexus" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Campus Nexus"/>
 </a>
 <p><em>An advanced college management system with a modern microservices-inspired architecture.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>MERN Stack</code> <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>JWT</code></p>
@@ -170,8 +170,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">💼 Professional Portfolio</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/ProfessionalPortfolio" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=ProfessionalPortfolio&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Professional Portfolio"/>
+<a href="https://github.com/ameykhodke/ProfessionalPortfolio" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=ProfessionalPortfolio&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="Professional Portfolio"/>
 </a>
 <p><em>A modern, responsive personal portfolio website built with cutting-edge frontend technologies.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>React.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Vite</code></p>
@@ -182,8 +182,8 @@ me.say_hi()
 <td width="50%" valign="top">
 <h3 align="center">🔍 SmartSearchX</h3>
 <div align="center">
-<a href="https://github.com/AmeyKhodke/SmartSearchX" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="SmartSearchX"/>
+<a href="https://github.com/ameykhodke/SmartSearchX" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&show_owner=true&cache_seconds=86400" alt="SmartSearchX"/>
 </a>
 <p><em>An AI-powered search tool utilizing Google's Programmable Search Engine for intelligent results.</em></p>
 <p><strong>🔧 Tech Stack:</strong> <code>Python</code> <code>Pandas</code> <code>Google API</code> <code>SMTP</code> <code>CSV</code> <code>Regex</code></p>
