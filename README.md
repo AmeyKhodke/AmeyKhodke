@@ -78,8 +78,8 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
@@ -90,17 +90,29 @@ me.say_hi()
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+### Cybersecurity Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
 ### Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ---
@@ -137,38 +149,95 @@ me.say_hi()
     <td align="center" width="50%">
       <h3>🤖 AI/ML Projects</h3>
       <p>Building intelligent systems with Python, TensorFlow, and PyTorch</p>
+      <ul>
+        <li>Deep Learning Models</li>
+        <li>Computer Vision</li>
+        <li>Natural Language Processing</li>
+        <li>Predictive Analytics</li>
+      </ul>
     </td>
     <td align="center" width="50%">
       <h3>🔐 Cybersecurity</h3>
       <p>Exploring ethical hacking, penetration testing, and security auditing</p>
+      <ul>
+        <li>Vulnerability Assessment</li>
+        <li>Web Application Security</li>
+        <li>Network Security</li>
+        <li>Incident Response</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>🌐 Full Stack Development</h3>
       <p>Creating end-to-end solutions with MERN stack</p>
+      <ul>
+        <li>RESTful API Development</li>
+        <li>Database Design</li>
+        <li>Authentication & Authorization</li>
+        <li>Performance Optimization</li>
+      </ul>
     </td>
     <td align="center" width="50%">
       <h3>📱 Mobile Development</h3>
       <p>Developing cross-platform apps with React Native</p>
+      <ul>
+        <li>iOS & Android Apps</li>
+        <li>Native Module Integration</li>
+        <li>State Management</li>
+        <li>UI/UX Design</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 What I'm Learning
 
 <div align="center">
-  
-  <!-- Replace with your actual project repositories -->
-  <a href="https://github.com/ameykhodke/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=project1&theme=tokyonight" alt="Project 1"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Advanced ML"/>
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🎯 **HackerRank** - Problem Solving (Gold Badge)
+- 🔐 **Cybersecurity Fundamentals** - Various Platforms
+- 🤖 **Machine Learning Specialization** - Coursera
+- 🌐 **Full Stack Development** - Self-taught & Projects
+- 💻 **Competitive Programming** - Regular participation
+
+---
+
+## 🌟 Featured Projects
+
+<!-- Update these with your actual project repositories -->
+<div align="center">
+  <a href="https://github.com/ameykhodke/smart-health-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=smart-health-monitor&theme=tokyonight" alt="Smart Health Monitor"/>
   </a>
-  <a href="https://github.com/ameykhodke/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=project2&theme=tokyonight" alt="Project 2"/>
+  <a href="https://github.com/ameykhodke/ai-chat-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=ai-chat-assistant&theme=tokyonight" alt="AI Chat Assistant"/>
   </a>
-  
+  <a href="https://github.com/ameykhodke/cybersecurity-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=cybersecurity-toolkit&theme=tokyonight" alt="Cybersecurity Toolkit"/>
+  </a>
+  <a href="https://github.com/ameykhodke/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameykhodke&repo=portfolio-website&theme=tokyonight" alt="Portfolio Website"/>
+  </a>
 </div>
 
 ---
@@ -183,11 +252,17 @@ me.say_hi()
   <a href="https://www.hackerrank.com/profile/ameykhodke430" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
+  <a href="https://leetcode.com/ameykhodke430" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
   <a href="mailto:ameykhodke430@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ameykhodke" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/ameykhodke" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   
 </div>
@@ -204,9 +279,9 @@ me.say_hi()
 
 <div align="center">
   
-  ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 🚀 "The only way to do great work is to love what you do." - Steve Jobs
   
-  **Thanks for visiting my profile! Have a great day! 😊**
+  **Thanks for visiting my profile! Let's connect and build something amazing together! 😊**
   
   <img src="https://komarev.com/ghpvc/?username=ameykhodke&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   
