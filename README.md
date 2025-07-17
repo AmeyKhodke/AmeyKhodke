@@ -137,16 +137,16 @@ me.say_hi()
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameykhodke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmeyKhodke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyKhodke&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameykhodke&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeyKhodke&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameykhodke&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeyKhodke&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -154,7 +154,7 @@ me.say_hi()
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameykhodke&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AmeyKhodke&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 ### 🎯 Professional Milestones
@@ -172,8 +172,8 @@ me.say_hi()
   ### 🏛️ Campus Nexus - Complete ERP Solution
   **Advanced College Management System with Modern Architecture**
   
-  <a href="https://github.com/AmeyKhodke/Campus-Nexus-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus-&theme=tokyonight&hide_border=true" alt="Campus Nexus"/>
+  <a href="https://github.com/AmeyKhodke/Campus-Nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true" alt="Campus Nexus"/>
   </a>
   
   `🔧 Tech Stack: MERN Stack | MongoDB | Express.js | React | Node.js | JWT Authentication`
@@ -198,7 +198,7 @@ me.say_hi()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true" alt="SmartSearchX"/>
   </a>
   
-  `🔧 Tech Stack: Python | Pandas | Google Custom Search API | Gmail SMTP | CSV | Regular Expressions
+  `🔧 Tech Stack: Python | Pandas | Google Custom Search API | Gmail SMTP | CSV | Regular Expressions`
   
 </div>
 
@@ -299,20 +299,6 @@ me.say_hi()
 
 ---
 
-## 🌟 What I'm Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=design&logoColor=white" alt="System Design"/>
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white" alt="MLOps"/>
-</div>
-
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -320,7 +306,7 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/amey-khodke-18ak2612/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ameykhodke" target="_blank">
+  <a href="https://github.com/AmeyKhodke" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:ameykhodke430@gmail.com">
@@ -329,22 +315,23 @@ me.say_hi()
   <a href="https://www.hackerrank.com/profile/ameykhodke430" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://leetcode.com/ameykhodke430" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://twitter.com/ameykhodke" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   
 </div>
 
-
 ---
 
-## 💭 Daily Motivation
+## 💭 Inspiration & Motivation
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  ### 🚀 "The best way to predict the future is to create it." - Peter Drucker
+  
+  ### 💡 "Innovation is the ability to see change as an opportunity, not a threat." - Steve Jobs
+  
+  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  ### 🔥 "First, solve the problem. Then, write the code." - John Johnson
+  
 </div>
 
 ---
@@ -352,7 +339,7 @@ me.say_hi()
 ## 🎨 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameykhodke&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeyKhodke&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
 </div>
 
 ---
@@ -363,9 +350,9 @@ me.say_hi()
   
   **Thank you for visiting my profile! Let's build the future together, one commit at a time! 🚀**
   
-  <img src="https://komarev.com/ghpvc/?username=ameykhodke&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ameykhodke?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/ameykhodke?label=Total%20Stars&style=flat-square&color=0e75b6" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=AmeyKhodke&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AmeyKhodke?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/AmeyKhodke?label=Total%20Stars&style=flat-square&color=0e75b6" alt="GitHub Stars"/>
   
 </div>
 
