@@ -109,11 +109,7 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 ### Cybersecurity Arsenal
@@ -162,11 +158,10 @@ me.say_hi()
 </div>
 
 ### 🎯 Professional Milestones
-- 🏅 **HackerRank Gold Badge** - Problem Solving Excellence
-- 🔐 **Cybersecurity Specialist** - Security-focused Development
+- 🏅 **HackerRank Gold Badge** - SQL Excellence
+- 🔐 **Cybersecurity ** - Security-focused Development
 - 🤖 **AI/ML Practitioner** - Machine Learning Implementation
 - 🌟 **Open Source Contributor** - Community-driven Development
-- 💡 **Innovation Award** - Creative Problem Solving
 
 ---
 
