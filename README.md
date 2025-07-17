@@ -169,8 +169,8 @@ me.say_hi()
   ### 🏛️ Campus Nexus - Complete ERP Solution
   **Advanced College Management System with Modern Architecture**
   
-  <a href="https://github.com/AmeyKhodke/Campus-Nexus-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus-&theme=tokyonight&hide_border=true" alt="Campus Nexus"/>
+  <a href="https://github.com/AmeyKhodke/Campus-Nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=Campus-Nexus&theme=tokyonight&hide_border=true" alt="Campus Nexus"/>
   </a>
   
   `🔧 Tech Stack: MERN Stack | MongoDB | Express.js | React | Node.js | JWT Authentication`
@@ -195,45 +195,10 @@ me.say_hi()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeyKhodke&repo=SmartSearchX&theme=tokyonight&hide_border=true" alt="SmartSearchX"/>
   </a>
   
-  `🔧 Tech Stack: Python | Pandas | Google Custom Search API | Gmail SMTP | CSV | Regular Expressions
+  `🔧 Tech Stack: Python | Pandas | Google Custom Search API | Gmail SMTP | CSV | Regular Expressions`
   
 </div>
 
-### 🌟 Project Highlights & Features
-
-<table>
-<tr>
-<td width="33%" align="center">
-<h4>🏛️ Campus Nexus</h4>
-<p>• Complete ERP solution for educational institutions</p>
-<p>• Student & faculty management system</p>
-<p>• Advanced authentication & authorization</p>
-<p>• Real-time notifications & updates</p>
-<p>• Responsive design for all devices</p>
-<p>• Analytics and reporting dashboard</p>
-</td>
-<td width="33%" align="center">
-<h4>💼 Professional Portfolio</h4>
-<p>• Modern, interactive user interface</p>
-<p>• Smooth animations & transitions</p>
-<p>• Project showcase with filtering</p>
-<p>• Skills visualization & progress bars</p>
-<p>• Contact form with email integration</p>
-<p>• SEO optimized & fast loading</p>
-</td>
-<td width="33%" align="center">
-<h4>🔍 SmartSearchX</h4>
-<p>• AI-powered search algorithms</p>
-<p>• Natural language processing</p>
-<p>• Advanced ranking & relevance</p>
-<p>• Real-time search suggestions</p>
-<p>• Multi-format content support</p>
-<p>• Scalable architecture design</p>
-</td>
-</tr>
-</table>
-
----
 
 ## 🔥 Current Focus & Learning Journey
 
