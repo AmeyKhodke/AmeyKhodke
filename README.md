@@ -147,7 +147,7 @@ me.say_hi()
   
   ### 💻 Language Usage & Activity
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&langs_count=8" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&langs_count=8" alt="Top Languages" width="50%"/>
   
 </div>
 
