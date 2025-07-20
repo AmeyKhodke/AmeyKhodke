@@ -131,7 +131,28 @@ me.say_hi()
 </p>
 
 ---
-
+📊 GitHub Analytics & Performance
+<div align="center">
+🔥 Contribution Overview
+  <img src="https://github-readme-stats.vercel.app/api?username=ameykhodke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&ring_color=00F7FF" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameykhodke&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="48%"/>
+</div>
+<div align="center">
+💻 Most Used Languages & Activity Graph
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykhodke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameykhodke&theme=tokyonight" alt="Activity Graph" width="48%"/>
+</div>
+<div align="center">
+📈 Contribution Metrics & Code Distribution
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ameykhodke&theme=tokyonight" alt="Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ameykhodke&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameykhodke&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+</div>
+<div align="center">
+⚡ Advanced GitHub Metrics
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameykhodke&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+---
 ## 🏆 Achievements & Recognition
 
 <div align="center">
