@@ -130,7 +130,6 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -144,6 +143,8 @@ me.say_hi()
 - 🔐 **Cybersecurity Enthusiast** - Security-focused Development
 - 🤖 **AI/ML Practitioner** - Hands-on Machine Learning Implementation
 - 🌟 **Open Source Contributor** - Community-driven Development
+
+---
 
 ---
 
