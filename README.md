@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ### 🚀 Software Developer | AI/ML Engineer | Cybersecurity Specialist
+  ### 🚀 Software Developer | AI/ML Engineer | Computer Vision | NLP
   
   *Building the future with code, one project at a time*
   
