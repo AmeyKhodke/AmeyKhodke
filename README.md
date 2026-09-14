@@ -140,9 +140,7 @@ me.say_hi()
 
 ### 🎯 Professional Milestones
 - 🏅 **HackerRank Gold Badge** - SQL Excellence
-- 🔐 **Cybersecurity Enthusiast** - Security-focused Development
 - 🤖 **AI/ML Practitioner** - Hands-on Machine Learning Implementation
-- 🌟 **Open Source Contributor** - Community-driven Development
 
 ---
 
