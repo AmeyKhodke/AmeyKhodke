@@ -1,191 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</div>
 
-# 👋 Hello, I'm Amey Khodke
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E75B6&height=120&section=header&text=Amey%20Khodke&fontColor=ffffff&fontSize=38&fontAlignY=38" alt="Amey Khodke"/>
 
-<div align="center">
-  
-  ### 🚀 Software Developer | AI/ML Engineer | Computer Vision | NLP
-  
-  *Building the future with code, one project at a time*
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Cybersecurity+Specialist;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-  
-</div>
+### AI / ML Engineer & Data Scientist · Final-year B.Tech IT (2027)
+**I build RAG pipelines, LLM applications and data products, and I measure whether they actually work.**
 
----
-
-## 🧑‍💻 About Me
-
-```python
-class AmeyKhodke:
-    def __init__(self):
-        self.name = "Amey Khodke"
-        self.location = "Maharashtra, India 🇮🇳"
-        self.role = "Software Developer & AI/ML Engineer"
-        self.education = "Information Technology Engineering"
-        self.languages = ["Python", "JavaScript", "Java", "C++", "Kotlin", "TypeScript"]
-        self.specializations = ["Full Stack Development", "AI/ML", "Cybersecurity"]
-        self.current_focus = ["Machine Learning", "System Design", "Cloud Computing"]
-        self.hobbies = ["Open Source", "Tech Blogging", "Competitive Programming"]
-    
-    def get_passion(self):
-        return "Building innovative solutions that make a difference"
-    
-    def say_hi(self):
-        print("Welcome to my digital space! Let's create something extraordinary together 🚀")
-
-# Let's connect and build!
-me = AmeyKhodke()
-me.say_hi()
-```
-
-🔹 **Current Focus**: Deep diving into Advanced AI/ML, System Design, and Cloud Architecture  
-🔹 **Learning**: MLOps, Kubernetes, Microservices, and Advanced Cybersecurity  
-🔹 **Collaboration**: Open to collaborate on innovative projects and open-source contributions  
-🔹 **Ask me about**: Python, MERN Stack, Machine Learning, Cybersecurity, System Design  
-🔹 **Contact**: [ameykhodke430@gmail.com](mailto:ameykhodke430@gmail.com)
-
----
-
-## 🛠️ Technology Arsenal
-
-### Core Programming Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-</p>
-
-### Frontend & UI/UX
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### Backend & Server Technologies
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
-
-### Databases & Data Storage
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### AI/ML & Data Science
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-### Cybersecurity Arsenal
-<p align="left">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
-</p>
-
-### Development Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameykhodke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&cache_seconds=86400" alt="GitHub Trophies"/>
-</div>
-
-### 🎯 Professional Milestones
-- 🏅 **HackerRank Gold Badge** - SQL Excellence
-- 🤖 **AI/ML Practitioner** - Hands-on Machine Learning Implementation
-
----
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amey-khodke-18ak2612/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ameykhodke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ameykhodke430@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ameykhodke430" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-</div>
-
----
-
-## 💭 Daily Motivation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-  ⭐ *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
-  
-  **Thank you for visiting my profile! Let's build the future together, one commit at a time!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amey-khodke)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ameykhodke430@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to-Data%20Scientist%20%7C%20AI%2FML%20%7C%20SDE%20roles-2EA44F?style=flat-square)
+![Location](https://img.shields.io/badge/Prefers-Mumbai%20%7C%20Bengaluru%20%7C%20Remote-555?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ameykhodke&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ameykhodke?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers"/>
-</div>
+## 👋 About
+
+Final-year B.Tech Information Technology student at Sanjivani College of Engineering (CGPA 8.9). I like turning messy real-world problems into working systems: defining the problem, shipping it, and checking the numbers before I trust the output.
+
+- 🔭 **Focus:** production-oriented GenAI (RAG, agentic workflows, LLM guardrails), evaluation and observability
+- 🏭 **Experience:** Data Science Intern at Celebal Technologies · Data Analytics, Cloud & AI Trainee at Godrej Infotech
+- 🏆 **Recognition:** National Finalist, India Innovates Hackathon (Top 1000 of 4000+ teams) · 4th Place, Hackfusion 3.0
+- 🔐 **Certified LLM Security Expert (CLLMSE)**, so safety and reliability are part of how I build
+- 📬 **Ask me about:** RAG pipelines, FastAPI backends, forecasting, LLM evaluation and tracing
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Highlights | Stack |
+|---|---|---|---|
+| **[MedAssist AI](https://github.com/AmeyKhodke/MedAssist_AI)** | LLM pharmacy assistant that turns free-text medicine orders into validated database actions | Modular **Extractor → Safety → Executor** pipeline so model output is checked before it is used · Gemini Vision prescription OCR · Hindi, Tamil, Marathi support · admin KPI dashboard · Langfuse tracing · Pytest and Postman tests | Python, FastAPI, React, SQLite, Groq (Llama), Gemini Vision, Sarvam AI, Langfuse |
+| **[CivicLens AI](https://github.com/AmeyKhodke/CIviclens_AI)** | AI copilot for public leaders: document search, semantic retrieval and meeting summaries | Retrieval latency **~1.2s → ~0.7s (~40% faster)** · top-3 retrieval accuracy **~65% → ~85%** · async endpoints for concurrent requests | Python, FastAPI, RAG, FAISS, ChromaDB, Next.js |
+| **[DocuMind RAG](https://github.com/AmeyKhodke/DocuMind_RAG)** | Document Q&A pipeline built **from scratch, no LangChain** | Page-aware chunking · retry logic on LLM calls · extractive compression for summaries · multilingual Q&A (English, Hindi, Marathi) | Python, Sentence-Transformers, ChromaDB, Groq (Llama 3.1), Streamlit |
+| **[Autonomous Energy System for Smart Grids](https://github.com/AmeyKhodke/Celebal_Excellence_Internship_Data_Science)** | End-to-end ML system on smart-meter data: forecasting, consumer segmentation and tariff optimization | ETL with lag, rolling-window and HDD/CDD features · K-Means into 4 behavioral archetypes · LightGBM / Random Forest 7-day demand forecaster · Streamlit Time-of-Use optimizer | Python, Pandas, LightGBM, Scikit-learn, Streamlit |
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts&perline=8" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,tailwind&perline=8" alt="Backend and frontend"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,opencv&perline=8" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase&perline=8" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,linux,postman&perline=8" alt="Tools and cloud"/>
+</p>
+
+**AI / ML:** RAG, LLMs, Prompt Engineering, Transformers, NLP, Agentic AI, LlamaIndex, FAISS, ChromaDB, LightGBM, K-Means, Time-Series Forecasting
+**Evaluation & Observability:** Retrieval accuracy and latency benchmarking, Langfuse (latency, token usage, error tracing), Pytest
+**Data & BI:** SQL, Pandas, Power BI, Tableau, Excel · **Core CS:** DSA (174+ problems solved), OOP, DBMS, OS, Computer Networks
+
+---
+
+## 💼 Experience
+
+| Role | Where | When | What I did |
+|---|---|---|---|
+| Data Science Intern | Celebal Technologies | Jun – Aug 2026 | Built an ETL and feature pipeline, a 7-day energy demand forecaster and a Streamlit tariff optimizer |
+| Data Analytics, Cloud & AI Trainee | Godrej Infotech | Jan – Feb 2026 | Data quality checks across 5+ pipelines (~30% less debugging effort), Power BI KPI dashboards (~40% faster reporting) |
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech, Information Technology**, Sanjivani College of Engineering, Kopargaon (expected 2027), CGPA 8.9/10
+- **Diploma in Computer Engineering**, Guru Gobind Singh Polytechnic, Nashik, 89.83%
+- Certified LLM Security Expert (CLLMSE) · Google Data Analytics Professional Certificate · Machine Learning using Python (Simplilearn) · Postman API Fundamentals Student Expert
+- Published: *SwiftCafe: Canteen Food Service Automation*, IJIRSET
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AmeyKhodke&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyKhodke&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for **Data Scientist, AI/ML Engineer and Software Engineer** roles starting 2027. If you're building something with LLMs, retrieval or data products, I'd like to talk.
+
+📧 [ameykhodke430@gmail.com](mailto:ameykhodke430@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/amey-khodke)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E75B6&height=70&section=footer" alt=""/>
 </div>
