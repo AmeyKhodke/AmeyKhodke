@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Measured impact: retrieval accuracy 65% to 85%, retrieval latency down 40%, debugging effort down 30%, reporting time down 40%">
+  <defs>
+    <linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7ee7ff"/><stop offset="1" stop-color="#7cf5b8"/></linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .c{opacity:0;animation:r .8s ease forwards}
+      @keyframes r{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    </style>
+  </defs>
+  <g class="t">
+    <g class="c" style="animation-delay:.1s"><rect x="0" y="0" width="238" height="170" rx="16" fill="#0d1b2a" stroke="#1f3a52"/>
+      <text x="119" y="78" text-anchor="middle" font-size="31" font-weight="800" fill="url(#n)">65% → 85%</text>
+      <text x="119" y="108" text-anchor="middle" font-size="14" fill="#cfe3f3">top-3 retrieval accuracy</text>
+      <text x="119" y="130" text-anchor="middle" font-size="12" fill="#7f9db5">CivicLens AI</text></g>
+    <g class="c" style="animation-delay:.3s"><rect x="254" y="0" width="238" height="170" rx="16" fill="#0d1b2a" stroke="#1f3a52"/>
+      <text x="373" y="78" text-anchor="middle" font-size="40" font-weight="800" fill="url(#n)">~40%</text>
+      <text x="373" y="108" text-anchor="middle" font-size="14" fill="#cfe3f3">faster retrieval (1.2s → 0.7s)</text>
+      <text x="373" y="130" text-anchor="middle" font-size="12" fill="#7f9db5">CivicLens AI</text></g>
+    <g class="c" style="animation-delay:.5s"><rect x="508" y="0" width="238" height="170" rx="16" fill="#0d1b2a" stroke="#1f3a52"/>
+      <text x="627" y="78" text-anchor="middle" font-size="40" font-weight="800" fill="url(#n)">~30%</text>
+      <text x="627" y="108" text-anchor="middle" font-size="14" fill="#cfe3f3">less manual debugging effort</text>
+      <text x="627" y="130" text-anchor="middle" font-size="12" fill="#7f9db5">Godrej Infotech · 5+ pipelines</text></g>
+    <g class="c" style="animation-delay:.7s"><rect x="762" y="0" width="238" height="170" rx="16" fill="#0d1b2a" stroke="#1f3a52"/>
+      <text x="881" y="78" text-anchor="middle" font-size="40" font-weight="800" fill="url(#n)">~40%</text>
+      <text x="881" y="108" text-anchor="middle" font-size="14" fill="#cfe3f3">faster reporting turnaround</text>
+      <text x="881" y="130" text-anchor="middle" font-size="12" fill="#7f9db5">Godrej Infotech · Power BI KPIs</text></g>
+  </g>
+</svg>

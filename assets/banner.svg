@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Amey Khodke, AI/ML Engineer, Data Scientist, Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="0.55" stop-color="#10233a"/><stop offset="1" stop-color="#0a2a33"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ee7ff"/><stop offset="1" stop-color="#7cf5b8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .orb1{animation:d1 9s ease-in-out infinite alternate}
+      .orb2{animation:d2 11s ease-in-out infinite alternate}
+      @keyframes d1{from{transform:translate(0,0)}to{transform:translate(60px,20px)}}
+      @keyframes d2{from{transform:translate(0,0)}to{transform:translate(-70px,-15px)}}
+      .fade{opacity:0;animation:f 1s ease forwards}
+      @keyframes f{to{opacity:1}}
+      .node{animation:p 3s ease-in-out infinite}
+      @keyframes p{0%,100%{opacity:.45}50%{opacity:1}}
+      .flow{stroke-dasharray:6 8;animation:m 1.2s linear infinite}
+      @keyframes m{to{stroke-dashoffset:-14}}
+    </style>
+  </defs>
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#grid)"/>
+  <g filter="url(#blur)">
+    <circle class="orb1" cx="180" cy="80" r="90" fill="#2e75b6" opacity="0.55"/>
+    <circle class="orb2" cx="840" cy="210" r="100" fill="#1fbf8f" opacity="0.35"/>
+  </g>
+  <text class="t fade" x="500" y="108" text-anchor="middle" font-size="62" font-weight="800" letter-spacing="2" fill="url(#name)" style="animation-delay:.2s">AMEY KHODKE</text>
+  <text class="t fade" x="500" y="148" text-anchor="middle" font-size="22" fill="#d6e4f0" style="animation-delay:.6s">AI / ML Engineer  ·  Data Scientist  ·  Backend Developer</text>
+  <text class="t fade" x="500" y="182" text-anchor="middle" font-size="15" fill="#8fb3cc" style="animation-delay:1s">Final-year B.Tech IT  ·  CGPA 8.9  ·  National Finalist, India Innovates Hackathon</text>
+  <g class="t fade" style="animation-delay:1.3s" font-size="14" font-weight="600">
+    <line class="flow" x1="318" y1="236" x2="382" y2="236" stroke="#58a6ff" stroke-width="2"/>
+    <line class="flow" x1="508" y1="236" x2="572" y2="236" stroke="#58a6ff" stroke-width="2"/>
+    <line class="flow" x1="662" y1="236" x2="716" y2="236" stroke="#58a6ff" stroke-width="2"/>
+    <g class="node"><rect x="214" y="218" width="104" height="36" rx="18" fill="#12304a" stroke="#58a6ff"/><text x="266" y="241" text-anchor="middle" fill="#cfe8ff">Retrieve</text></g>
+    <g class="node" style="animation-delay:.5s"><rect x="382" y="218" width="126" height="36" rx="18" fill="#12304a" stroke="#58a6ff"/><text x="445" y="241" text-anchor="middle" fill="#cfe8ff">Validate</text></g>
+    <g class="node" style="animation-delay:1s"><rect x="572" y="218" width="90" height="36" rx="18" fill="#12304a" stroke="#58a6ff"/><text x="617" y="241" text-anchor="middle" fill="#cfe8ff">Measure</text></g>
+    <g class="node" style="animation-delay:1.5s"><rect x="716" y="218" width="70" height="36" rx="18" fill="#0f3d2e" stroke="#3fb950"/><text x="751" y="241" text-anchor="middle" fill="#b7f5c8">Ship</text></g>
+  </g>
+</svg>
